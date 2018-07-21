@@ -53,6 +53,6 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 <li>Integration with STMP server</li>
 <li>Thymeleaf server-side Java template engine</li>
 <li>Springboot fremawork</li>
-  <li>The Java Persistence API for the management of relational data in application using Java Platform<li>
+ <li>The Java Persistence API for the management of relational data in application using Java Platform</li>
 </ul>
 
