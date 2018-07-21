@@ -47,10 +47,10 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 <li>Java mail API for adding email feature to my website</li>
 <li>Integration with STMP server</li>
 <li>Thymeleaf server-side Java template engine</li>
-<li>Springboot fremawork</li>
+<li>Springboot framework</li>
   <li>Java 8.0</li>
   <li>Relational database management system</li>
- <li>The Java Persistence API for the management of relational data in application using Java Platform</li>
+ <li>Java Persistence API for the management of relational data in application using Java Platform</li>
   <li>Cascading Style Sheets for describing the presentation of the web application</li>
 </ul>
 
