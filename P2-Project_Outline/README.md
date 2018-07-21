@@ -13,14 +13,15 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 
 ### Features
 <ul>
-  <li>Register: Users will be able to create account with user name, password and email.</li>
-<li>User Login: Users will be able to log in to the application. Each user will have a profile page.</li>
-<li>Create Wish : User will be able to create a wish list.</li>
-<li>Create Event: User will be able to create event and invite guest sending invitation email through this website.</li> 
-  <li>Invite: User can invite guest by sending invitation email.</li>
-<li>Search Users: User will be able to search the registered user </li>
-<li>Reading List: User can create a reading list for them, they just have to key in ISBN number of the book. This application is integrated with Google Books API. The Google Books API can return details of any book from the ISBN code. User get to know the book title, author names, publishing date, publisher and so on. User can add the book to their reading list. </li>
+  <li><b>Register</b> : Users will be able to create account with user name, password and email.</li>
+<li><b>User Login</b> : Users will be able to log in to the application. Each user will have a profile page.</li>
+<li><b>Create Wish</b> : User will be able to create a wish list.</li>
+<li><b>Create Event</b> : User will be able to create event and invite guest sending invitation email through this website.</li> 
+  <li><b>Invite</b> : User can invite guest by sending invitation email.</li>
+<li><b>Search Users</b> : User will be able to search the registered user </li>
+<li><b>Reading List</b> : User can create a reading list for them, they just have to key in ISBN number of the book. This application is integrated with Google Books API. The Google Books API can return details of any book from the ISBN code. User get to know the book title, author names, publishing date, publisher and so on. User can add the book to their reading list. </li>
 </ul>
+
 ### Technologies
 <ul>
   <li>Java 8</li>
@@ -41,8 +42,7 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 </ul>
 
 ### What I'll Have to Learn
-Include what you will need to learn here
-I will learn 
+
 <ul>
 <li>Rest Web Services</li> 
 <li>using data from a public API</li>
@@ -53,5 +53,6 @@ I will learn
 <li>Integration with STMP server</li>
 <li>Thymeleaf server-side Java template engine</li>
 <li>Springboot fremawork</li>
+  <li>The Java Persistence API for the management of relational data in application using Java Platform<li>
 </ul>
 
