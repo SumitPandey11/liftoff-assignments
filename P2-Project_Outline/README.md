@@ -17,11 +17,41 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 <li>User Login: Users will be able to log in to the application. Each user will have a profile page.</li>
 <li>Create Wish : User will be able to create a wish list.</li>
 <li>Create Event: User will be able to create event and invite guest sending invitation email through this website.</li> 
+  <li>Invite: User can invite guest by sending invitation email.</li>
 <li>Search Users: User will be able to search the registered user </li>
 <li>Reading List: User can create a reading list for them, they just have to key in ISBN number of the book. This application is integrated with Google Books API. The Google Books API can return details of any book from the ISBN code. User get to know the book title, author names, publishing date, publisher and so on. User can add the book to their reading list. </li>
 </ul>
 ### Technologies
-Include Technologies here
+<ul>
+  <li>Java 8</li>
+  <li>Spring boot 2.0</li>
+  <li>JPA</li>
+  <li>Hibenate 5.0</li>
+  <li>RESTful Web Services</li>
+  <li>javax.mail and Google SMPT</li>
+  <li>Thymeleaf</li>
+  <li>Java Script</li>
+  <li>jQuey</li>
+  <li>AJAX</li>
+  <li>BootStrap 3</li>
+  <li>JSON</li>
+  <li>MySQL</li>
+  <li>HTML</li>
+  <li>CSS</li>
+</ul>
 
 ### What I'll Have to Learn
 Include what you will need to learn here
+I will learn 
+<ul>
+<li>Rest Web Services</li> 
+<li>using data from a public API</li>
+<li>AJAX for Asynchronous data exchange between client and server</li>  
+<li>jQuery library for the font end JavaScript</li> 
+<li>JSON (JavaScript Object Notation) for lightweight data-interchange</li> 
+<li>Java mail API for adding email feature to my website</li>
+<li>Integration with STMP server</li>
+<li>Thymeleaf server-side Java template engine</li>
+<li>Springboot fremawork</li>
+</ul>
+
