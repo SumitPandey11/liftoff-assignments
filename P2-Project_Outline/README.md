@@ -39,14 +39,18 @@ I recently organized the 10th Birthday party of my Kid. He invited eighteen frie
 
 <ul>
 <li>Rest Web Services</li> 
-<li>using data from a public API</li>
+<li>Integration of data from public API using REST web service</li>
 <li>AJAX for Asynchronous data exchange between client and server</li>  
-<li>jQuery library for the font end JavaScript</li> 
+  <li>Event driven client side interactive feature with JavaScript</li>
+<li>jQuery library for the font end JavaScript</li>
 <li>JSON (JavaScript Object Notation) for lightweight data-interchange</li> 
 <li>Java mail API for adding email feature to my website</li>
 <li>Integration with STMP server</li>
 <li>Thymeleaf server-side Java template engine</li>
 <li>Springboot fremawork</li>
+  <li>Java 8.0</li>
+  <li>Relational database management system</li>
  <li>The Java Persistence API for the management of relational data in application using Java Platform</li>
+  <li>Cascading Style Sheets for describing the presentation of the web application</li>
 </ul>
 
