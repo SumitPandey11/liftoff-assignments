@@ -14,7 +14,7 @@ Moqup Wireframe https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a8014069
   <li> <a href ="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/aa9df7b72">Login</a></li>
   <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a13798fe2">Register New User</a> </li>
   <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a1b03b5cf">Add a Wish</li>
-  <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a7861143c">Created the Wish</li>
+  <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a7861143c">Wish successfully added</li>
 </ul>
 
 ### Project Tracker
