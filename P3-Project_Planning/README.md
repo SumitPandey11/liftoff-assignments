@@ -8,14 +8,13 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 Moqup Wireframe https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a8014069d
 <ul>
-  <li> User Login</li>
-  <li> User Registration</li>
-  <li> Create Wish</li>
-  <li> Wishlist</li>
+  <li> <a href ="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/aa9df7b72">Login</a></li>
+  <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a13798fe2">Register New User</a> </li>
+  <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a1b03b5cf">Add a Wish</li>
+  <li> <a href="https://app.moqups.com/sumitpandey/UZR9ntFz06/view/page/a7861143c">Created the Wish</li>
 </ul>
 
 ### Project Tracker
