@@ -7,4 +7,6 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+
+Link to my project repository Project repository https://github.com/SumitPandey11/iWish
+Link to my project README.md https://github.com/SumitPandey11/iWish/blob/master/README.md
